@@ -1,5 +1,7 @@
 # hello-world
 
-i'm very sick :(
+just another repository
+
+hello everyone!
 
 
